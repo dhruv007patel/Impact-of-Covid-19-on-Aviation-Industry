@@ -25,9 +25,11 @@ Advance Visualization: https://public.tableau.com/app/profile/himalya1749/viz/Co
 Refer to running.md file
 
 ### Report PDF:
-https://docs.google.com/document/d/1T0UzcXiEHKlb_jAHS288hDs4HPa-ZqFPVchu074UiM8/edit?usp=sharing
+https://drive.google.com/file/d/1C7EXCqsEuBQRJIMSBDOPay6wfFFIWj42/view?usp=sharing
 
 ### Presentation: 
 https://prezi.com/view/cc8SFviUjjFH8eDfnglP/
 
+### Demo: 
+https://drive.google.com/file/d/1ytwrvmqw21n7h3PQS5NFBw78V01hGxos/view?usp=sharing
 
